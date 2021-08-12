@@ -1,3 +1,3 @@
 ## Arcgis Sketch Up Validation
 
-<img align="left" width="100" height="1000" src="img/sketch.jpg">
+<img width="1100" height="675" src="sketch.jpg">
